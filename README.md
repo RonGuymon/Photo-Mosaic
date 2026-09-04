@@ -1,0 +1,1 @@
+This contains a couple of Python scripts to gather photos of peoples role models (fetch_role_model_photos.py) and then to combine them into a photo mosaic (create_photo_mosaic.py). It uses the role models in the role_model_summary.csv file.
